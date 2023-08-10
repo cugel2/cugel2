@@ -17,3 +17,19 @@ jobs:
           # profile readme, remove the leading `#` to use them
           #GH_TOKEN: ${{ secrets.GH_TOKEN }}
           #REPOSITORY: <gh_username/gh_username>
+          
+          # meta
+          API_BASE_URL: https://wakatime.com/api
+          REPOSITORY: cugel2/cugel2
+          
+          # content
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          BLOCKS: ->
+          CODE_LANG: all_time 
+          TIME_RANGE: true
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
