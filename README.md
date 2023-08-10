@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🐛 **How I'm spending my time**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 **cugel2/cugel2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
