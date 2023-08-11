@@ -10,7 +10,7 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: cugel2/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           # following flags are required, only if this is not on
@@ -25,7 +25,6 @@ jobs:
           # content
           SHOW_TITLE: true
           SECTION_NAME: waka
-          BLOCKS: ->
           CODE_LANG: all_time 
           TIME_RANGE: true
           LANG_COUNT: 10
