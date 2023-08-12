@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 August 2023 - To: 10 August 2023
+From: 04 August 2023 - To: 11 August 2023
 
-Total Time: 19 hrs
+Total Time: 18 hrs 2 mins
 
-CSS          7 hrs 55 mins   ▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░   41.34 %
-HTML         5 hrs 11 mins   ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░   27.10 %
-PHP          4 hrs 27 mins   ▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░   23.26 %
-SCSS         1 hr 15 mins    ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.59 %
-Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+CSS          7 hrs 34 mins   ▓▓▓▓▓▓▓▓▓▓▒░░░░░░░░░░░░░░   41.64 %
+HTML         4 hrs 55 mins   ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░   27.03 %
+PHP          4 hrs 7 mins    ▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░░   22.61 %
+SCSS         1 hr 15 mins    ▓▒░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
+Other        10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
