@@ -4,15 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 August 2023 - To: 20 August 2023
+From: 14 August 2023 - To: 21 August 2023
 
-Total Time: 8 hrs 43 mins
+Total Time: 9 hrs 12 mins
 
-JavaScript   7 hrs 22 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   84.55 %
-CSS          50 mins         ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-HTML         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+JavaScript   8 hrs 18 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░   90.33 %
+CSS          28 mins         ▓▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
+HTML         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Git Config   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
