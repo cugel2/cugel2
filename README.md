@@ -4,14 +4,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 August 2023 - To: 28 August 2023
+From: 22 August 2023 - To: 29 August 2023
 
-Total Time: 2 hrs 4 mins
+Total Time: 1 hr 12 mins
 
-JavaScript   2 hrs 1 min     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░   96.82 %
-JSON         3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-HTML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+JavaScript   46 mins         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   64.27 %
+SCSS         18 mins         ▓▓▓▓▓▓▒░░░░░░░░░░░░░░░░░░   25.75 %
+HTML         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.91 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Ezhil        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
