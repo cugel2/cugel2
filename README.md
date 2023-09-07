@@ -4,17 +4,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 29 August 2023 - To: 05 September 2023
+From: 30 August 2023 - To: 06 September 2023
 
-Total Time: 6 hrs 58 mins
+Total Time: 5 hrs 55 mins
 
-JavaScript        4 hrs 6 mins    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░   59.04 %
-PHP               1 hr 55 mins    ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░   27.60 %
-Python            45 mins         ▓▓▒░░░░░░░░░░░░░░░░░░░░░░   10.86 %
-Gettext Catalog   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
-CSS               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-HTML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
-JSON              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JavaScript        3 hrs 49 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░   64.60 %
+PHP               1 hr 55 mins    ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░   32.47 %
+Gettext Catalog   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+CSS               2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
+HTML              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+JSON              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
 Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 Ezhil             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
