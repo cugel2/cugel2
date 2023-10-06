@@ -4,13 +4,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 September 2023 - To: 04 October 2023
+From: 28 September 2023 - To: 05 October 2023
 
-Total Time: 6 hrs 38 mins
+Total Time: 5 hrs 9 mins
 
-PHP     5 hrs 22 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░░░   81.12 %
-CSS     1 hr 15 mins    ▓▓▓▓▒░░░░░░░░░░░░░░░░░░░░   18.86 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+PHP     4 hrs 22 mins   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░   84.86 %
+CSS     46 mins         ▓▓▓▓░░░░░░░░░░░░░░░░░░░░░   15.11 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
